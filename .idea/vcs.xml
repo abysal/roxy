@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/compiler" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpm-cache/lua/6eb2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpm-cache/lua/8f90" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpm-cache/lua/e886" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpm-cache/reflect-cpp/e046" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpm-cache/reflect-cpp/e046/vcpkg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpm-cache/sol2/d726" vcs="Git" />
+  </component>
+</project>
